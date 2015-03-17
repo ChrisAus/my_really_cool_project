@@ -1,4 +1,10 @@
 This project is seriously awesome, guys. 
 This is a new line of code.
 
+<<<<<<< HEAD
 This project will help all the totally awesome treehouse students learn about working with git repository.
+=======
+I hope this is right. 
+
+This project will help treehouse students learn about working with git repository.
+>>>>>>> foo_feature
